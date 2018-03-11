@@ -21,7 +21,10 @@
     "url": "https://github.com/sushantdhiman/semantic-test/issues"
   },
   "homepage": "https://github.com/sushantdhiman/semantic-test#readme",
+  "release": {
+    "branch": "master"
+  },
   "publishConfig": {
-    "tag": "latest"
+    "tag": "next"
   }
 }
