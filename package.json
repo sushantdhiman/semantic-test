@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/sushantdhiman/semantic-test#readme",
   "release": {
-    "branch": "v1"
+    "branch": "master"
   },
   "publishConfig": {
-    "tag": "latest"
+    "tag": "next"
   }
 }
