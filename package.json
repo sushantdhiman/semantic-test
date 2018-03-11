@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@telerik/semantic-prerelease": "^1.2.1",
+    "@telerik/semantic-prerelease": "git+https://git@github.com/sushantdhiman/semantic-prerelease.git",
     "semantic-release": "^15.0.2"
   },
   "scripts": {
