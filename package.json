@@ -5,7 +5,6 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@telerik/semantic-prerelease": "git+https://git@github.com/sushantdhiman/semantic-prerelease.git",
     "semantic-release": "^15.0.2"
   },
   "scripts": {
@@ -23,18 +22,7 @@
   },
   "homepage": "https://github.com/sushantdhiman/semantic-test#readme",
   "release": {
-    "branch": "master",
-    "branchTags": {
-      "master": "next"
-    },
-    "fallbackTags": {
-      "next": "latest"
-    },
-    "analyzeCommits": "@telerik/semantic-prerelease/analyzeCommits",
-    "generateNotes": "@telerik/semantic-prerelease/generateNotes",
-    "getLastRelease": "@telerik/semantic-prerelease/getLastRelease",
-    "verifyConditions": "@telerik/semantic-prerelease/verifyConditions",
-    "verifyRelease": "@telerik/semantic-prerelease/verifyRelease"
+    "branch": "master"
   },
   "publishConfig": {
     "tag": "next"
