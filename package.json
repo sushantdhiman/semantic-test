@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sushantdhiman/semantic-test/issues"
   },
-  "homepage": "https://github.com/sushantdhiman/semantic-test#readme"
+  "homepage": "https://github.com/sushantdhiman/semantic-test#readme",
+  "publishConfig": {
+    "tag": "latest"
+  }
 }
