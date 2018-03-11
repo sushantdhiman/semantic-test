@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-seq-test",
-  "version": "0.0.0-development",
+  "version": "3.0.0-beta",
   "description": "",
   "main": "index.js",
   "dependencies": {},
