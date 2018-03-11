@@ -21,6 +21,9 @@
     "url": "https://github.com/sushantdhiman/semantic-test/issues"
   },
   "homepage": "https://github.com/sushantdhiman/semantic-test#readme",
+  "release": {
+    "branch": "v1"
+  },
   "publishConfig": {
     "tag": "latest"
   }
