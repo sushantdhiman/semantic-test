@@ -16,4 +16,4 @@ jobs:
 
 stages:
   - name: release
-    if: type = push AND fork = false
+    if: branch = master AND type = push AND fork = false

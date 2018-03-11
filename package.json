@@ -25,6 +25,6 @@
     "branch": "master"
   },
   "publishConfig": {
-    "tag": "next"
+    "tag": "latest"
   }
 }
